@@ -1,0 +1,37 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature frac;
+feature ordn;
+} aalt;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub D A N K by D_A_N_K.liga;
+sub M E M E by M_E_M_E.liga;
+sub m e m e by m_e_m_e.liga;
+sub c t by c_t.liga;
+sub e a by e_a.liga;
+sub f i by f_i.liga;
+sub f l by f_l.liga;
+sub i j by i_j.liga;
+sub s t by s_t.liga;
+} liga;
+

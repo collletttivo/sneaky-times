@@ -1,0 +1,35 @@
+{
+glyphname = guillemotleft;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(452,37,l),
+(511,37,l),
+(263,518,l),
+(511,991,l),
+(452,991,l),
+(62,518,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(906,37,l),
+(966,37,l),
+(720,518,l),
+(966,991,l),
+(906,991,l),
+(511,518,l)
+);
+}
+);
+width = 1024;
+}
+);
+note = guillemotleft;
+unicode = 171;
+}

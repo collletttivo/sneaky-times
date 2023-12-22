@@ -1,0 +1,22 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,-29,l),
+(573,-29,l),
+(82,1423,l),
+(4,1423,l)
+);
+}
+);
+width = 575;
+}
+);
+note = backslash;
+unicode = 92;
+}

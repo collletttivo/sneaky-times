@@ -1,0 +1,25 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,668,l),
+(480,1253,l),
+(830,668,l),
+(923,668,l),
+(497,1384,l),
+(466,1384,l),
+(36,668,l)
+);
+}
+);
+width = 960;
+}
+);
+note = asciicircum;
+unicode = 94;
+}

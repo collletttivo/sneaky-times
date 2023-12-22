@@ -1,0 +1,25 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1220,160,l),
+(1220,262,l),
+(269,657,l),
+(1220,1051,l),
+(1220,1153,l),
+(146,700,l),
+(146,616,l)
+);
+}
+);
+width = 1368;
+}
+);
+note = less;
+unicode = 60;
+}

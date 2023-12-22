@@ -1,0 +1,22 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(658,1120,l),
+(658,1249,l),
+(22,1249,l),
+(22,1120,l)
+);
+}
+);
+width = 681;
+}
+);
+note = macron;
+unicode = 175;
+}

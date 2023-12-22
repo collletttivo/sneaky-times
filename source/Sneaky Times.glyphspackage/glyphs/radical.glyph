@@ -1,0 +1,26 @@
+{
+glyphname = radical;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(788,244,l),
+(383,1067,l),
+(82,916,l),
+(116,852,l),
+(314,943,l),
+(810,-78,l),
+(1122,1869,l),
+(1048,1869,l)
+);
+}
+);
+width = 1124;
+}
+);
+note = radical;
+unicode = 8730;
+}

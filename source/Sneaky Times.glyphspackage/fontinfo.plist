@@ -1,0 +1,749 @@
+{
+.appVersion = "3217";
+.formatVersion = 3;
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+space,
+glyph1,
+glyph2,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+uni00A0,
+exclamdown,
+cent,
+sterling,
+currency,
+yen,
+brokenbar,
+section,
+dieresis,
+copyright,
+ordfeminine,
+guillemotleft,
+logicalnot,
+uni00AD,
+registered,
+macron,
+degree,
+plusminus,
+uni00B2,
+uni00B3,
+acute,
+paragraph,
+periodcentered,
+cedilla,
+uni00B9,
+ordmasculine,
+guillemotright,
+onequarter,
+onehalf,
+threequarters,
+questiondown,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+AE,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Eth,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+multiply,
+Oslash,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+Thorn,
+germandbls,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ae,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+eth,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+divide,
+oslash,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+thorn,
+ydieresis,
+OE,
+oe,
+Ydieresis,
+circumflex,
+tilde,
+uni2000,
+uni2001,
+uni2002,
+uni2003,
+uni2004,
+uni2005,
+uni2006,
+uni2007,
+uni2008,
+uni2009,
+uni200A,
+uni2010,
+uni2011,
+figuredash,
+endash,
+emdash,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+bullet,
+ellipsis,
+uni202F,
+guilsinglleft,
+guilsinglright,
+uni205F,
+trademark,
+uni25FC,
+uniFB01,
+uniFB02,
+uni0190,
+uni0193,
+uni0194,
+uni019D,
+ij,
+uni01BD,
+uni0293,
+uni0466,
+uni04A8,
+uni20B0,
+infinity,
+radical,
+arrowup,
+arrowright,
+arrowdown,
+arrowleft,
+uni2194,
+arrowupdn,
+arrowupdnbse,
+dottedcircle,
+lozenge,
+smileface,
+uni2116,
+dagger,
+daggerdbl,
+section.001,
+thousandcyrillic,
+uni0488,
+uni0489,
+st,
+meme,
+micromeme,
+ea,
+troll
+);
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+}
+);
+date = "2019-03-28 17:46:55 +0000";
+familyName = Sneaky;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature frac;
+feature ordn;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub D A N K by D_A_N_K.liga;
+sub M E M E by M_E_M_E.liga;
+sub m e m e by m_e_m_e.liga;
+sub c t by c_t.liga;
+sub e a by e_a.liga;
+sub f i by f_i.liga;
+sub f l by f_l.liga;
+sub i j by i_j.liga;
+sub s t by s_t.liga;
+";
+tag = liga;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1890;
+},
+{
+name = typoDescender;
+value = -570;
+},
+{
+name = typoLineGap;
+value = 160;
+},
+{
+name = winAscent;
+value = 1890;
+},
+{
+name = winDescent;
+value = 620;
+},
+{
+name = hheaAscender;
+value = 1890;
+},
+{
+name = hheaDescender;
+value = -570;
+},
+{
+name = hheaLineGap;
+value = 160;
+},
+{
+name = underlinePosition;
+value = -886;
+},
+{
+name = underlineThickness;
+value = 102;
+}
+);
+id = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+metricValues = (
+{
+over = 16;
+pos = 1468;
+},
+{
+over = 32;
+pos = 1407;
+},
+{
+over = 24;
+pos = 950;
+},
+{
+over = -15;
+},
+{
+over = -30;
+pos = -410;
+},
+{
+over = -15;
+}
+);
+name = Times;
+stemValues = (
+1152,
+1407
+);
+}
+);
+instances = (
+{
+instanceInterpolations = {
+"500BB636-1048-4D7F-B62E-A2796C57CEF4" = 1;
+};
+name = Times;
+}
+);
+kerningLTR = {
+"500BB636-1048-4D7F-B62E-A2796C57CEF4" = {
+A = {
+C = -190;
+G = -190;
+O = -190;
+Q = -190;
+T = -190;
+U = -200;
+V = -400;
+W = -400;
+Y = -400;
+};
+B = {
+A = -120;
+C = -90;
+O = -120;
+};
+C = {
+A = -150;
+};
+D = {
+A = -150;
+E = -120;
+O = -20;
+};
+F = {
+G = -120;
+O = -120;
+};
+G = {
+A = -120;
+H = -120;
+};
+H = {
+O = -120;
+a = -80;
+e = -120;
+g = -120;
+j = -120;
+o = -120;
+v = -120;
+w = -120;
+y = -120;
+};
+I = {
+O = -120;
+};
+J = {
+A = -190;
+O = -120;
+};
+K = {
+O = -250;
+};
+L = {
+O = -120;
+};
+M = {
+O = -120;
+};
+N = {
+A = -150;
+O = -120;
+};
+O = {
+A = -190;
+B = -120;
+C = -20;
+D = -120;
+E = -120;
+F = -120;
+G = -20;
+H = -120;
+I = -120;
+J = -120;
+K = -120;
+L = -120;
+M = -120;
+N = -120;
+P = -120;
+R = -120;
+S = -120;
+T = -120;
+U = -120;
+V = -220;
+W = -220;
+X = -220;
+Y = -220;
+Z = -120;
+};
+P = {
+A = -150;
+};
+Q = {
+A = -120;
+R = -120;
+};
+R = {
+O = -220;
+};
+T = {
+A = -200;
+O = -120;
+};
+U = {
+A = -200;
+O = -120;
+};
+V = {
+A = -400;
+O = -220;
+};
+W = {
+A = -400;
+O = -220;
+};
+X = {
+O = -220;
+};
+Y = {
+A = -400;
+Agrave = -400;
+O = -220;
+Z = -100;
+};
+a = {
+H = -80;
+b = -90;
+h = -50;
+};
+b = {
+h = -100;
+};
+c = {
+d = -20;
+h = -90;
+n = -80;
+};
+d = {
+e = -50;
+h = -50;
+n = -40;
+};
+e = {
+H = -120;
+f = -80;
+h = -80;
+n = -90;
+};
+f = {
+g = -100;
+h = 90;
+n = -90;
+};
+g = {
+h = -30;
+};
+h = {
+b = -100;
+c = -80;
+d = -80;
+e = -90;
+g = -90;
+o = -120;
+p = -80;
+q = -80;
+t = -80;
+u = -100;
+v = -120;
+w = -100;
+y = -100;
+};
+j = {
+H = -120;
+h = -50;
+k = -90;
+};
+n = {
+a = -20;
+b = -90;
+c = -40;
+d = -80;
+e = -90;
+g = -40;
+j = -90;
+o = -90;
+p = -90;
+q = -70;
+t = -80;
+u = -80;
+v = -100;
+w = -100;
+y = -100;
+};
+o = {
+H = -120;
+h = -130;
+n = -50;
+o = -80;
+p = -90;
+};
+p = {
+h = -80;
+n = -50;
+};
+q = {
+h = -90;
+n = -70;
+r = -80;
+};
+r = {
+H = -120;
+h = -60;
+};
+s = {
+h = -60;
+t = -60;
+};
+t = {
+h = -90;
+n = -40;
+};
+u = {
+h = -50;
+v = -90;
+};
+v = {
+H = -120;
+h = -50;
+};
+w = {
+H = -120;
+h = -50;
+};
+y = {
+H = -120;
+h = -90;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "© 2020, Jules Durand";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = JulesDurand;
+}
+);
+},
+{
+key = designerURL;
+value = "https://jules-durand.fr";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "SIL Open Font License";
+}
+);
+},
+{
+key = vendorID;
+value = CLT;
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL_web";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
+unitsPerEm = 2048;
+versionMajor = 4;
+versionMinor = 2;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = "500BB636-1048-4D7F-B62E-A2796C57CEF4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,1065,l),
+(318,1278,l),
+(591,1065,l),
+(622,1065,l),
+(431,1397,l),
+(247,1397,l),
+(58,1065,l)
+);
+}
+);
+width = 681;
+}
+);
+note = circumflex;
+unicode = 710;
+}
